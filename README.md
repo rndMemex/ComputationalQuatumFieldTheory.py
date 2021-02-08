@@ -1,2 +1,2 @@
 # ComputationalQFT
-quantum field theory exercises
+quantum field theory
