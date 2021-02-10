@@ -6,7 +6,7 @@ from sympy.matrices import zeros
 from fractions import Fraction
 
 
-#this is a script with default vacum expectation valu 1/root(2) x [0, 0, v]T, v ∈ R
+#vacum expectation value 1/root(2) x [0, 0, 1]T, v ∈ R
 #t_a =  λ _a/2
 
 # define Gell-Mann matrices
