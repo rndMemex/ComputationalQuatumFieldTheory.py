@@ -1,3 +1,8 @@
+# binarycalculator.go - base-10 to base-2 calculator
+# Usage: go build binarycalculator.go; ./binarycalculator
+# Copyright (c) 2020 rndMemex
+
+
 import numpy as np
 import matplotlib as plt
 from sympy import Matrix
