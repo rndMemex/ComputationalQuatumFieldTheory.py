@@ -1,6 +1,5 @@
-# binarycalculator.go - base-10 to base-2 calculator
-# Usage: go build binarycalculator.go; ./binarycalculator
-# Copyright (c) 2020 rndMemex
+
+# Copyright (c) 2020 rndMemex @ Imperial College London
 
 
 import numpy as np
