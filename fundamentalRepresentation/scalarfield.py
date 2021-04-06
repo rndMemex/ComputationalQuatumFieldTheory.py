@@ -1,7 +1,5 @@
 # Copyright (c) 2020 rndMemex @ Imperial College London
 
-
-
 import numpy as np
 import matplotlib as plt
 from sympy import Matrix
