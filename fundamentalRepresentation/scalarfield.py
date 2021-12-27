@@ -1,4 +1,4 @@
-# Copyright (c) 2020 rndMemex @ Imperial College London
+# Copyright (c) 2020 Memex @ Imperial College London
 
 import numpy as np
 import matplotlib as plt
