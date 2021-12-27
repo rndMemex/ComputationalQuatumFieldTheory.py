@@ -3,7 +3,7 @@
 import numpy as np
 import matplotlib as plt
 from numpy.core.numeric import identity
-from sympy import Matrix
+from sympy import Matrix, init_printing
 from sympy.physics.quantum import Operator, Dagger
 from sympy.matrices import zeros
 from fractions import Fraction
@@ -26,7 +26,7 @@ print("\n")
 print("1: Consider the symmetry breaking matrix S_ab:")
 time.sleep(1)
 print("\n")
-print("S_ab= ν^2 * {}".format(S_ab))
+pprint("ν^2 * {}".format(S_ab))
 time.sleep(2)
 print("\n")
 print("2: Find the eigenvalues of S_ab:")
@@ -53,5 +53,4 @@ v_i=S_ab.eigenvects()
 print("- The eigenvectors are: ν^2 x {}".format(v_i))
 time.sleep(1)
 print("\n")
-
 
